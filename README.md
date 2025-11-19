@@ -1,39 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sobhan</h1>
-<h3 align="center">A Creative, passionate Software engineer</h3>
+<h1 align="center">Hi, I'm Sobhan 👋</h1>
+<h3 align="center">Software Engineer — focused on building reliable, scalable systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sobhanaminnejad&label=Profile%20views&color=0e75b6&style=flat" alt="sobhanaminnejad" /> </p>
+---
 
-- 💬 Ask me about **javascript and react**
+### About Me
+I'm a versatile software engineer with experience across frontend, backend, architecture, and developer experience.  
+I enjoy simplifying complex systems, improving engineering workflows, and contributing to projects that create real impact for users and teams.
 
-- 📫 How to reach me **sobition@gmail.com**
+- 🛠 I work across the stack — from UI to backend services to infrastructure migrations  
+- 🤝 I enjoy mentoring engineers and improving team processes  
+- 🧠 Interested in system design, product thinking, and engineering leadership  
+- 📫 Reach me at **sobition@gmail.com**  
+- 🔗 More about me: [LinkedIn](https://www.linkedin.com/in/sobhan-aminnejad) · [Portfolio](https://sobifolio.dev)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### What I Work With
+I care more about solving the right problems than the exact stack, but I have recent experience with:
+
+- JavaScript / TypeScript, React, Next.js  
+- Node.js, Ruby on Rails  
+- REST APIs, GraphQL  
+- CI/CD, Testing, Observability  
+- System design, migrations, platform architecture  
+- AI-assisted developer workflows
+
+---
+
+### GitHub Activity
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sobhan-aminnejad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sobhan-aminnejad/" height="30" width="40" /></a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sobition&show_icons=true&layout=compact" 
+    alt="sobition"
+  />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobition&show_icons=true&locale=en&layout=compact" alt="sobition" /></p>
