@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sobhan 👋</h1>
+<h1 align="center">Hi, I'm Sobi 👋</h1>
 <h3 align="center">Software Engineer — focused on building reliable, scalable systems</h3>
 
 ---
